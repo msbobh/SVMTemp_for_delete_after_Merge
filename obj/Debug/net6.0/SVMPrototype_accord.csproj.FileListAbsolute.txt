@@ -1,0 +1,64 @@
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/SVMPrototype_accord.exe
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/Accord.dll.config
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/SVMPrototype_accord.deps.json
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/SVMPrototype_accord.runtimeconfig.json
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/SVMPrototype_accord.dll
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/SVMPrototype_accord.pdb
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/Accord.dll
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/Accord.MachineLearning.dll
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/Accord.Math.Core.dll
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/Accord.Math.dll
+C:/Users/rober/github/SVMPrototype_accord/bin/Debug/net6.0/Accord.Statistics.dll
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.csproj.AssemblyReference.cache
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.AssemblyInfoInputs.cache
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.AssemblyInfo.cs
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.csproj.CoreCompileInputs.cache
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.csproj.CopyComplete
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.dll
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/refint/SVMPrototype_accord.dll
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.pdb
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.genruntimeconfig.cache
+C:/Users/rober/github/SVMPrototype_accord/obj/Debug/net6.0/ref/SVMPrototype_accord.dll
+/Users/msbobh/Library/CloudStorage/OneDrive-Personal/SourceCode/ML Temporary/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.csproj.AssemblyReference.cache
+/Users/msbobh/Library/CloudStorage/OneDrive-Personal/SourceCode/ML Temporary/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.dll
+/Users/msbobh/Library/CloudStorage/OneDrive-Personal/SourceCode/ML Temporary/SVMPrototype_accord/obj/Debug/net6.0/refint/SVMPrototype_accord.dll
+/Users/msbobh/Library/CloudStorage/OneDrive-Personal/SourceCode/ML Temporary/SVMPrototype_accord/obj/Debug/net6.0/SVMPrototype_accord.pdb
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\SVMPrototype_accord.exe
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\Accord.dll.config
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\SVMPrototype_accord.deps.json
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\SVMPrototype_accord.runtimeconfig.json
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\SVMPrototype_accord.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\SVMPrototype_accord.pdb
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\Accord.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\Accord.Controls.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\Accord.MachineLearning.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\Accord.Math.Core.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\Accord.Math.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\Accord.Statistics.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\ZedGraph.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\de\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\es\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\fr\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\hu\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\it\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\ja\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\pt\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\ru\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\sk\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\sv\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\tr\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\zh-CN\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\bin\Debug\net6.0\zh-TW\ZedGraph.resources.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.csproj.ResolveComReference.cache
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.AssemblyInfo.cs
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.csproj.CopyComplete
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\refint\SVMPrototype_accord.dll
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.pdb
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\SVMPrototype_accord.genruntimeconfig.cache
+C:\Users\rober\OneDrive\SourceCode\ML Temporary\SVMPrototype_accord\obj\Debug\net6.0\ref\SVMPrototype_accord.dll
